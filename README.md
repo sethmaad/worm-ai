@@ -91,5 +91,7 @@ meta-llama/llama-3-8b-instruct:nitro
 ## 👨‍💻 Author
 
 GitHub: @00x0kafyy
+
 Telegram: t.me/xsocietyforums
+
 Project URL: https://github.com/00x0kafyy/worm-gpt
