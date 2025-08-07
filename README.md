@@ -11,7 +11,6 @@
 - 🔗 OpenRouter API integration
 - 🌍 Auto language detection (via `langdetect`)
 - 🗣️ Multi-language support: English, Indonesian, Spanish, Arabic, Thai, Portuguese
-- 🔓 Auto-loaded jailbreak prompt from GitHub
 - 💬 Interactive chat session with typing effect
 - 🎨 Stylish CLI UI with colors and banners
 - 🔧 Easy configuration of API key and model
@@ -85,6 +84,9 @@ Example:
 01-ai/Yi-34B-Chat
 meta-llama/llama-3-8b-instruct:nitro
 ```
+
+### 📷 Example Screenshot
+![WormGPT CLI Example](assets/example.jpg)
 
 ## 👨‍💻 Author
 
