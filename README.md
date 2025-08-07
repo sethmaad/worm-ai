@@ -1,6 +1,6 @@
 # 🐛 WormGPT CLI - OpenRouter Edition
 
-**WormGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, jailbreak prompts, and customizable settings — all in a terminal-friendly format.
+**WormGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, and customizable settings — all in a terminal-friendly format.
 
 > ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by [@00x0kafyy](https://github.com/00x0kafyy)
 
